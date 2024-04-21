@@ -7,3 +7,5 @@
 
 2024/4/21
 By ludan0414
+
+UPD: [题目链接](http://cxsjsxmooc.openjudge.cn/test/R/)
